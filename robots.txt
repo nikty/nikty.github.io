@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nikty.github.io/sitemap.xml
